@@ -21,7 +21,7 @@ void Debug(const char* x){
 	Usart3Send(x,strlen(x));
 	#endif
 	
-	
+	//不太对
 	
 }
 
